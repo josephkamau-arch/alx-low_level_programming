@@ -6,7 +6,7 @@
 
 /**
  * main - Prints a text
- * Retrun: 0 Always (Success)
+ * Retrun: Always (Success)
  *
  */
 
